@@ -1,0 +1,208 @@
+
+body
+{
+    width: 1000px;
+    margin: 20px;
+    background-color: beige;
+}
+
+.dialogo
+{
+    display: none;
+    float: right;
+}
+
+.cabeceras
+{
+    border-bottom: solid;
+    border-bottom-color: black;
+    margin: 20px;
+    text-align: center;
+}
+
+.contenidos
+{
+    border: solid;
+    border-color: black;
+    text-align: center;
+    margin: 20px;
+    background-color: white;
+    padding: 10px;
+    justify-content: space around;
+    border-radius: 20px;
+}
+
+span 
+{
+    color:red
+}
+
+h2 
+{
+    text-align:center;
+    border-radius:10px 10px 0 0;
+    margin:-10px -40px;
+    padding:15px
+}
+
+hr 
+{
+    border:0;
+    border-bottom:1px solid #ccc;
+    margin:10px -40px;
+    margin-bottom:30px;
+}
+
+#login 
+{
+    display: none;
+    background-color:#FEFFED;
+    border-radius:10px;
+    font-family:raleway;
+    border:2px solid #ccc;
+    padding:10px 40px 25px;
+    margin-top:70px;
+}
+
+#loginprof
+{
+    display: none;
+    background-color:#FEFFED;
+    border-radius:10px;
+    font-family:raleway;
+    border:2px solid #ccc;
+    padding:10px 40px 25px;
+    margin-top:70px;
+}
+
+.redireccion
+{
+    float: right;
+    margin: 5px;
+    border: solid;
+    border-color: gray;
+    background-color: gainsboro;
+    color: graytext;
+    border-radius: 5px;
+}
+
+.input
+{
+    margin: 2px;
+}
+
+.error
+{
+    color: red;
+}
+
+#bienvenida
+{
+    margin-top: 20px;
+    border: solid;
+    border-color: blue;
+    background-color: #3399FF;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 250%;
+    color: beige;
+    padding:20px;
+}
+
+.lista
+{
+    margin: 5px;
+    width: 350px;
+    height: 30px;
+    padding: 5px;
+    border: solid;
+    border-color: #800000;
+    border-radius: 15px;
+    background-color: #993333;
+    color: white;
+}
+
+#acceso
+{
+    margin: 10px;
+    padding: 10px;
+    border: solid;
+    border-color: black;
+    background-color: beige;
+    color: black;
+    width: 70px;
+    height: 20px;
+}
+
+.select1
+{
+    font-size: 50px;
+}
+
+#alerta
+{
+    margin-left: 350px;
+    display: none;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    color: red;
+}
+
+#formulariovariables
+{
+    margin: 10px;
+}
+
+#opcionvariables
+{
+    margin:10px;
+}
+
+.opcion
+{
+    margin:25px;
+    padding:60px;
+    border: solid;
+    border-color: #993333;
+    background-color: #993333;
+    width: 150px;
+    height: 150px;
+    float: left;
+    text-align: center;
+    border-radius: 250px;
+    color: goldenrod;
+}
+
+.opcion:hover
+{
+    cursor:pointer;
+    background-color: blue;
+}
+/*
+.resultado
+{
+    width: 100px; 
+    height: 40px;
+    border: solid;
+    border-color: black;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+*/
+
+table, th, tr, td
+{
+    border: solid;
+    border-collapse: collapse;
+    border-color: black;
+    background-color: white;
+    text-align: center;
+    padding:5px;
+}
+
+#showCalculos
+{
+    display: none;
+}

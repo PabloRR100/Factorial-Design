@@ -1,1 +1,2 @@
-# Factorial-Design-Model
+# Reaction-Simulator
+Final Bachelors Degree Project

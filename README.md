@@ -2,6 +2,7 @@
 
 Bachelor's Degree in Chemical Engineering Final Project.  
 This is a collaboration between the Organic Chemistry and the Automatic, Electric and Automation departments.  
+**Note**: The entire project was develop in Spanish.
 
 For this project I built a tool for the department of Organic Chemistry consisting on an interactive database system and a reaction simulator tool. Students should be granted by the leader of the laboratory to upload their results and populate the database so future predictions could perform better results.  
 

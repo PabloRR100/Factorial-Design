@@ -18,9 +18,9 @@ The next video is a description of the chartflow where those cases are gathered.
 
 ### Determine objective variable
 To calculate possible values for the objective value, here is the explanation of how the algoithm would look like:
-![detemine_ojb][detemine_ojb]
+![detemine_obj][detemine_obj]
 
 
 [database_search]: images/database_search.gif
 [special_cases]: images/especial_cases.gif
-[detemine_ojb]: determine_obj_variable.gif
+[detemine_obj]: images/determine_obj_variable.gif

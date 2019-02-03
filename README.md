@@ -1,6 +1,6 @@
 # Reaction Simulator
 
-Bachelor's Degree in Chemical Engineering Final Project.  
+Bachelor's Degree in Chemical Engineering Final Project.  Jun 2015
 This is a collaboration between the Organic Chemistry and the Automatic, Electric and Automation departments.  
 **Note**: The entire project was develop in Spanish.
 
